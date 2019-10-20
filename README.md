@@ -1,3 +1,3 @@
 **LOUIS BOT**
 
-Un simple bot discord (créé a partir d'une vanne) en nodeJS, hébergé sur glitch.com et utilisant uptimerobot.com pour le maintenir connecté
+Un simple bot discord (issu d'une blague) en nodeJS, hébergé sur glitch.com et utilisant uptimerobot.com pour le maintenir connecté
